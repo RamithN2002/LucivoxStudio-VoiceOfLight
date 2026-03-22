@@ -2,7 +2,8 @@
 
 # LucivoxStudio — VoiceOfLight
 
-**An offline, production-grade Retrieval-Augmented Generation (RAG) platform**
+> LucivoxStudio is a voice that brings light — it listens to your questions
+> and illuminates the knowledge hidden inside your documents.
 built with FastAPI, Next.js, ChromaDB, and Ollama, no API keys required.
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)](https://python.org)

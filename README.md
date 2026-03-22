@@ -10,7 +10,7 @@ built with FastAPI, Next.js, ChromaDB, and Ollama — 100% private, no API keys 
 [![Next.js](https://img.shields.io/badge/Next.js-Frontend-black?style=flat-square&logo=next.js)](https://nextjs.org)
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-orange?style=flat-square)](https://trychroma.com)
 [![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-purple?style=flat-square)](https://ollama.ai)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=flat-square)](LICENSE)
 
 </div>
 
@@ -219,7 +219,7 @@ Built and tested on:
 
 ## License
 
-MIT License — see [LICENSE](LICENSE) for details.
+Apache License 2.0 — see [LICENSE](LICENSE) for details.
 
 ---
 

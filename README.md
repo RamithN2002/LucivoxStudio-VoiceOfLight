@@ -3,7 +3,7 @@
 # LucivoxStudio — VoiceOfLight
 
 **An offline, production-grade Retrieval-Augmented Generation (RAG) platform**
-built with FastAPI, Next.js, ChromaDB, and Ollama — 100% private, no API keys required.
+built with FastAPI, Next.js, ChromaDB, and Ollama, no API keys required.
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com)

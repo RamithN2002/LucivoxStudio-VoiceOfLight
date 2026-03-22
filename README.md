@@ -224,9 +224,6 @@ Apache License 2.0 — see [LICENSE](LICENSE) for details.
 ---
 
 <div align="center">
-
-Built with purpose. Runs offline. No data leaves your machine.
-
-**LucivoxStudio — Light through every word.**
+**LucivoxStudio — Voice Of Light**
 
 </div>
